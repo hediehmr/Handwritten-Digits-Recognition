@@ -60,5 +60,10 @@ The code manually computes the gradients for weight updates. The core learning l
     python src/HandwrittenDigits.py
     ```
 
+## 📄 Full Documentation
+For a deep dive into details, please refer to the document below:
+
+👉 **[Download Full Project Report (PDF)](Final_Report_Persian.pdf)**
+
 ## 📧 Contact
 **Hedieh Moftakhari Rostamkhani** ML Systems Engineer | [hedieh.rm@gmail.com](mailto:hedieh.rm@gmail.com)
